@@ -35,6 +35,7 @@ Follow the step-by-step instructions in the Jupyter notebook to reproduce the an
 
 Machine learning has witnessed significant growth over the past three decades, as reflected in the NIPS papers. This analysis serves as a testament to the transformative journey of machine learning, from its foundational concepts to cutting-edge innovations. Stay tuned for more insights and explorations in the fascinating world of machine learning.
 
+Note: This project was completed from Datacamp focusing on practical applications of machine learning and data analysis techniques.
 ---
 
 For any questions or feedback, feel free to reach out.
